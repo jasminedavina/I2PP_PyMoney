@@ -1,1 +1,0 @@
-Created a money organizer app that records expenses and income using Python for my Introduction to Programming in Python course. Implemented features to track financial data, helping users manage their budgets effectively. Focused on developing basic data structures and file handling for storing transactions.
